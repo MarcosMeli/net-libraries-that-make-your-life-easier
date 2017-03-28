@@ -36,6 +36,7 @@ Ah, and make sure to also check these other great lists:
 * [EPPlus](#epplus)
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
+* [FileHelpers](#filehelpers)
 * [Fixie](#fixie)
 * [FluentAssertions](#fluent-assertions)
 * [FluentMigrator](#fluentmigrator)
@@ -264,6 +265,17 @@ An indiscriminate data generator that will generate random data for all properti
 
 [fibber-gh]:    https://github.com/Schandlich/Fibber
 [fibber-nuget]: https://www.nuget.org/packages/Fibber
+
+## [FileHelpers]
+
+<sup>[GitHub][filehelpers-gh]</sup> <sup>[NuGet][filehelpers-nuget]</sup>
+
+Read/Write data from fixed length or delimited records in flat files, strings or streams
+
+[FileHelpers]:       http://www.filehelpers.net/
+[filehelpers-gh]:    https://github.com/MarcosMeli/FileHelpers
+[filehelpers-nuget]: https://www.nuget.org/packages/FileHelpers/
+
 
 ## [Fixie]
 
